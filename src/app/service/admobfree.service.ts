@@ -17,14 +17,14 @@ export class AdmobFreeService {
     // for the sake of this example we will just use the test config
     isTesting: true,
     autoShow: false,
-    id: "ca-app-pub-3380705355111875/9268678299"
+    id: "ca-app-pub-3380705355111875/2131787246"
   };
 
   //Reward Video Ad's Configurations
   RewardVideoConfig: AdMobFreeRewardVideoConfig = {
     isTesting: true, // Remove in production
     autoShow: false,
-    id: "ca-app-pub-3380705355111875/9268678299"
+    id: "ca-app-pub-3380705355111875/4744334688"
   };
 
   constructor(
